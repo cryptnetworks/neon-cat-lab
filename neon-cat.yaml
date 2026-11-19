@@ -1,0 +1,5 @@
+# Build settings for the classroom exercise.
+process_name: neon-cat-lab
+session_seconds: 300
+quit_shortcut: Ctrl+Alt+Shift+K
+cat_speed: 800.0
